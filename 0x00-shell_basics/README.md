@@ -7,3 +7,4 @@ ls -l -n -a displays current directory contents in a long format, with user and 
 mkdir /tmp/my_first_directory creates a directory named my_first_directory in the /tmp/ directory
 mv /tmp/betty /tmp/my_first_directory moves the file betty from /tmp/ to /tmp/my_first_directory
 rm /tmp/my_first_directory/betty delets the file betty
+rmdir /tmp/my_first_directory deletes the directory my_first_directory that is in the /tmp directory
