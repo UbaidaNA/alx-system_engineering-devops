@@ -40,6 +40,8 @@ The file _hello is a symbolic link
 
 chown --from=guillaume betty hello changes the owner of the file hello to betty only if it is owned by the user guillaume
 
+telnet towel.blinkenlights.nl will play the StarWars IV episode in the terminal
+
 
 
 
