@@ -38,7 +38,7 @@ chown -h vincent:staff _hello changes the owner and the group owner of _hello to
 The file _hello is in the working directory
 The file _hello is a symbolic link
 
-
+chown --from=guillaume betty hello changes the owner of the file hello to betty only if it is owned by the user guillaume
 
 
 
