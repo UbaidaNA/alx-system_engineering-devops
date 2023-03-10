@@ -23,4 +23,6 @@ chmod --reference=olleh hello sets the mode of the file hello the same as ollehâ
 The file hello will be in the working directory
 The file olleh will be in the working directory
 
+chmod -R  +X . creates a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 
+Regular files should not be changed.
