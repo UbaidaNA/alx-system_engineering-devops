@@ -1,4 +1,5 @@
 echo "Hello, World" prints Hello World followed by a new line to the standard output
 echo "(Ôo)" displays a confused smiley "(Ôo)'
 cat /etc/passwd displays the content of the /etc/passwd file.
-cat /etc/passwd, /etc/hosts
+cat /etc/{passwd,hosts}
+tail -n 10 /etc/passwd displays the last 10 lines of /etc/passwd
